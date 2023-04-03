@@ -27,6 +27,7 @@ const styles = StyleSheet.create({
         borderRadius: 10,
         borderColor: 'black',
         backgroundColor: 'black',
+        margin:5,
         padding: 8
     },
     Outline:{
@@ -34,6 +35,7 @@ const styles = StyleSheet.create({
         borderWidth: 1,
         borderRadius: 10,
         borderColor: 'black',
+        margin:5,
         padding: 8
     }
 })

@@ -9,6 +9,7 @@ Expo: expo install react-native-kumbutton
 
 ## Sample code
 ```javascript
+import {View, Text} from 'react-native'
 import {Button} from 'react-native-kumbutton'
 export default function App(){
     return(
@@ -21,7 +22,7 @@ export default function App(){
         <Button
           buttonType={'outline'} //default 'solid'
           text={'Hello world!'}
-          //default onpress -> console.log('Button Clicked!')
+          //default onPress = () => console.log('Button Clicked!')
         />
         <Text>Stylish (Solid)</Text>
         <Button
@@ -52,5 +53,5 @@ export default function App(){
 |style|Object|null|
 |text|String|'Click Me!'|
 |textStyle|Object|null|
-|clickOpacity|Number|0.2|value range (0-1)|
+|clickOpacity|Number|0.2|range (0-1)|
 |onPress|Function|()=>console.log('Button Clicked!')|
