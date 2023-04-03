@@ -9,6 +9,7 @@ Expo: expo install react-native-kumbutton
 
 ## Sample code
 ```javascript
+import React from 'react'
 import {View, Text} from 'react-native'
 import {Button} from 'react-native-kumbutton'
 export default function App(){
