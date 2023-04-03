@@ -1,0 +1,25 @@
+{
+  "name": "react-native-kumbutton",
+  "version": "0.0.1",
+  "description": "Create stylish buttons easily and efficiently",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammad-kumail/react-native-kumbutton.git"
+  },
+  "keywords": [
+    "react native",
+    "react native stylish button",
+    "material ui button",
+    "react button"
+  ],
+  "author": "Kumail Baloch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muhammad-kumail/react-native-kumbutton/issues"
+  },
+  "homepage": "https://github.com/muhammad-kumail/react-native-kumbutton#readme"
+}
